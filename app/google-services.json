@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724497755567",
+    "project_id": "realtime-db-4ee27",
+    "storage_bucket": "realtime-db-4ee27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724497755567:android:5df2e14d34040cd8ba135a",
+        "android_client_info": {
+          "package_name": "com.kampus.merdeka.realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724497755567-f4uatjq98n94vva5hknj2be7v511op8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAElidLtu1irTnrjJtb_PJDxIGn0yLFsnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724497755567-f4uatjq98n94vva5hknj2be7v511op8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
